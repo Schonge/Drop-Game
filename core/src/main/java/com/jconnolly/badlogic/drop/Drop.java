@@ -1,4 +1,4 @@
-package com.jconnolly;
+package com.jconnolly.badlogic.drop;
 
 import com.badlogic.gdx.Game;
 import com.badlogic.gdx.Gdx;
